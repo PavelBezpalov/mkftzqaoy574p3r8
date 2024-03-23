@@ -1,0 +1,11 @@
+## Interface: 100200
+## Title: mkftzqaoy574p3r8
+## Notes: mkftzqaoy574p3r8
+## LoadOnDemand: 0
+## DefaultState: enabled
+## Dependencies: bxhnz7tp5bge7wvu
+
+spellbook.lua
+arcane.lua
+fire.lua
+frost.lua
